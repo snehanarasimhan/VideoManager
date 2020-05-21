@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # video-browser
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# VideoManager
+>>>>>>> 7d38f55ee26df061553d310f462f25d4f6d63102
